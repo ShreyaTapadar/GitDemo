@@ -37,4 +37,12 @@ By topDeals = By.linkText("Top Deals");
 	{
 		driver.findElement(topDeals).click();
 	}
+	
+	public void changes()
+	{
+		System.out.println("Changes Made");
+		System.out.println("Changes Made1");
+		System.out.println("Changes Made2");
+	}
+	
 }
