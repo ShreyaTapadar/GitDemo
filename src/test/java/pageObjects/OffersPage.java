@@ -30,5 +30,20 @@ By productName = By.xpath("//h4[@class='product-name']");
 			{
 				return driver.findElement(productName).getText();
 			}
+			
+			public void changes()
+			{
+				System.out.println("Changes Made");
+				System.out.println("Changes Made1");
+				System.out.println("Changes Made2");
+			}
+			
+			public void newchnages()
+			{
+				System.out.println("Learnign Github");
+				System.out.println("Learnign Github1");
+				System.out.println("Learnign Github2");
+			}
+			
 		}
 
