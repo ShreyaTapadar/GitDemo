@@ -45,4 +45,11 @@ By topDeals = By.linkText("Top Deals");
 		System.out.println("Changes Made2");
 	}
 	
+	public void newchnages()
+	{
+		System.out.println("Learnign Github");
+		System.out.println("Learnign Github1");
+		System.out.println("Learnign Github2");
+	}
+	
 }
